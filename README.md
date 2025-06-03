@@ -1,4 +1,4 @@
-<h1 align="center">YourSchoolBob</h1>
+<h1 align="center">NEISLunchChecker</h1>
 
 > I believe you know how to do it
 * 파이썬 나이스 API 급식식단정보 프로그램
